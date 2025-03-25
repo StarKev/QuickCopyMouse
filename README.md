@@ -71,7 +71,7 @@ Ce script AutoHotkey est conçu pour remapper les boutons latéraux de la souris
 ## License
 
 ```text
-Copyright (C) 2023-2024 StarKev
+Copyright (C) 2023-2025 StarKev
 
 Licensed under the CC BY-NC-SA 4.0 License;
 you may not use this file except in compliance with the License.
