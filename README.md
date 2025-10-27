@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<a href="https://github.com/StarKev"><img src="sources/HXSJ-T69-QuickCopy.ico"></a>
+<a href="https://github.com/StarKev"><img src="sources/QuickCopyMouse.ico"></a>
 <br>
 
 <br>
